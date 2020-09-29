@@ -1,0 +1,10 @@
+sum = 98.76
+average = 0.9876
+sum = 88.6
+average = 0.886
+sum = 98.9939
+average = 0.989939
+sum = 99.8889
+average = 0.998889
+sum = 93.302
+average = 0.93302
